@@ -4,7 +4,10 @@
 #### Custom Ethereum address generator
 Get a shiny ethereum address and stand out from the crowd!
 
-[![asciicast](https://asciinema.org/a/cmidn81zwi1c2n49ij4co9pg9.png)](https://asciinema.org/a/cmidn81zwi1c2n49ij4co9pg9)
+### I want to implement mnemonics key generation.
+
+### If anyone knows how to put this please help.
+
 Disclaimer: Do not use the private key shown in this demo; it's public, strangers could steal your Eth. Never share your private key with anyone. It's your and only your responsibility to keep your private key in secret.
 
 ## Features
